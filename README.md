@@ -1,3 +1,3 @@
 # Webies - Un cinema fictif
 
-**Disclaimer** Hepl
+**Disclaimer** This is a school project from HEPL - Liège
