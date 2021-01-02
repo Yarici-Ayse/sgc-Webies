@@ -4,5 +4,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="js-td-web-1-dom-master" />
+    <orderEntry type="module" module-name="js-td-basics-7-poo-master" />
+    <orderEntry type="module" module-name="DW2_RWD1_pourEtud" />
+    <orderEntry type="module" module-name="RWD1_pourEtud" />
+    <orderEntry type="module" module-name="js-td-basics-1-variables-master" />
   </component>
 </module>

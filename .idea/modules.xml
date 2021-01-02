@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Documents/HEPL/Design Web/DW2_RWD1_pourEtud/.idea/DW2_RWD1_pourEtud.iml" filepath="$USER_HOME$/Documents/HEPL/Design Web/DW2_RWD1_pourEtud/.idea/DW2_RWD1_pourEtud.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/HEPL/Design Web/RWD1_pourEtud/.idea/RWD1_pourEtud.iml" filepath="$USER_HOME$/Documents/HEPL/Design Web/RWD1_pourEtud/.idea/RWD1_pourEtud.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Javascript/js-td-basics-1-variables-master/.idea/js-td-basics-1-variables-master.iml" filepath="$USER_HOME$/Desktop/Javascript/js-td-basics-1-variables-master/.idea/js-td-basics-1-variables-master.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/HEPL/Dev. Côté clients/js-td-basics-7-poo-master/.idea/js-td-basics-7-poo-master.iml" filepath="$USER_HOME$/Documents/HEPL/Dev. Côté clients/js-td-basics-7-poo-master/.idea/js-td-basics-7-poo-master.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/HEPL/Dev. Côté clients/TP/js-td-web-1-dom-master/.idea/js-td-web-1-dom-master.iml" filepath="$USER_HOME$/Documents/HEPL/Dev. Côté clients/TP/js-td-web-1-dom-master/.idea/js-td-web-1-dom-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sgc-webies.iml" filepath="$PROJECT_DIR$/.idea/sgc-webies.iml" />
     </modules>
   </component>
